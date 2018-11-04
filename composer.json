@@ -1,0 +1,18 @@
+{
+    "name": "wilder9/laisse_pas_trainer_ton_file",
+    "authors": [
+        {
+            "name": "Thierry STOLLSTEINER",
+            "email": "stollsteiner.thierry@hotmail.fr"
+        }
+    ],
+    "require": {
+        "nikic/fast-route": "^1.3",
+        "twig/twig": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
